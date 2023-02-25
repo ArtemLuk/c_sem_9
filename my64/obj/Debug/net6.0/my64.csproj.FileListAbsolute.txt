@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\bin\Debug\net6.0\my64.exe
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\bin\Debug\net6.0\my64.deps.json
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\bin\Debug\net6.0\my64.runtimeconfig.json
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\bin\Debug\net6.0\my64.dll
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\bin\Debug\net6.0\my64.pdb
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.AssemblyInfo.cs
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.dll
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\refint\my64.dll
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.pdb
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\my64.genruntimeconfig.cache
+C:\Users\HP\Documents\education\25.02.2023\c_sem_9\my64\obj\Debug\net6.0\ref\my64.dll
